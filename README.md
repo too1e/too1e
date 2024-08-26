@@ -7,8 +7,8 @@
         </a>
     </p>
   <p align="center">
-    <p> Welcome to my corner of the internet </p>
-    <h4 align="center">My Open Source Projects</h4>
+    <p> welcome to my corner of the internet </p>
+    <h4 align="center">My Projects</h4>
     <table align="center">
         <tr>
 </div>
