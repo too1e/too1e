@@ -7,7 +7,7 @@
         </a>
     </p>
   <p align="center">
-    <p> welcome to my corner of the internet </p>
+    <p> welcome to my github </p>
     <h4 align="center">My Projects</h4>
     <table align="center">
         <tr>
