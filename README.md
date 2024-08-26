@@ -2,7 +2,7 @@
     <h3>sam's github </h3>
     <p align="center">
         <a href="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif">
-                <img src="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif" width="50" alt="Cyberkongz GIF"/>
+                <img src="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif" width="100" alt="Cyberkongz GIF"/>
             </a>
         </a>
     </p>
