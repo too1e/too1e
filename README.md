@@ -2,12 +2,13 @@
     <h3>sam's github </h3>
     <p align="center">
         <a href="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif">
-            <img src="gorilla.wepb" width="50"/>
+                <img src="https://media.tenor.com/WWt-bBPOct0AAAAj/cyberkongz-kongz.gif" width="50" alt="Cyberkongz GIF"/>
+            </a>
         </a>
     </p>
   <p align="center">
     <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
-    <h4 align="left">My Open Source Projects</h4>
+    <h4 align="center">My Open Source Projects</h4>
     <table align="center">
         <tr>
 </div>
