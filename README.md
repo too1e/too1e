@@ -11,7 +11,7 @@
     <h4 align="center">My Projects</h4>
     <table align="center">
         <tr>
-            <td><a href="[https://github.com/too1e/soccer]">soccer stats</a> - datascraping tool for soccer stats</td>
+            <td><a href="https://github.com/too1e/soccer">soccer stats</a> - datascraping tool for soccer stats</td>
         </tr>
     </table>
 </div>
