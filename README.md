@@ -12,6 +12,7 @@
     <table align="center">
         <tr>
             <td><a href="https://github.com/too1e/soccer">soccer stats</a> - datascraping tool for soccer stats</td>
+            <td><a href="https://github.com/too1e/crime">income inequality and crime rates</a> - visualizations and analysis of the effect of income inequality on crime</td>
         </tr>
     </table>
 </div>
