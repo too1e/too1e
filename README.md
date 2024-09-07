@@ -17,7 +17,7 @@
         <td><a href="https://github.com/too1e/crime">income inequality and crime rates</a> - visualizations and analysis of the effect of income inequality on crime</td>
     </tr>
      <tr>
-        <td><a href="https://github.com/too1e/inflation">grocery greedlation</a> -an analysis of grocery prices and the effect of the COVID-19 pandemic
+        <td><a href="https://github.com/too1e/inflation">grocery greedlation</a> - an analysis of grocery prices and the effect of the COVID-19 pandemic
     </tr>
 </table>
 
