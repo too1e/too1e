@@ -14,10 +14,10 @@
         <td><a href="https://github.com/too1e/soccer">soccer stats</a> - data scraping tool for soccer stats</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/too1e/crime">income inequality and crime rates</a> - visualizations and analysis of the effect of income inequality on crime</td>
+        <td><a href="https://github.com/too1e/crime">income inequality and crime rates</a> - visualizing and analyzing the impact of income inequality on crime</td>
     </tr>
      <tr>
-        <td><a href="https://github.com/too1e/inflation">grocery greedlation</a> - An analysis of grocery price trends and the impact of the COVID-19 pandemic</td>
+        <td><a href="https://github.com/too1e/inflation">grocery greedlation</a> - an analysis of grocery price trends and the impact of the COVID-19 pandemic</td>
     </tr>
 </table>
 
