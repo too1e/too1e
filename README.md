@@ -10,9 +10,12 @@
     <p> welcome to my github </p>
     <h4 align="center">My Projects</h4>
     <table align="center">
-        <tr>
-            <td><a href="https://github.com/too1e/soccer">soccer stats</a> - datascraping tool for soccer stats</td>
-            <td><a href="https://github.com/too1e/crime">income inequality and crime rates</a> - visualizations and analysis of the effect of income inequality on crime</td>
-        </tr>
-    </table>
+    <tr>
+        <td><a href="https://github.com/too1e/soccer">soccer stats</a> - data scraping tool for soccer stats</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/too1e/crime">income inequality and crime rates</a> - visualizations and analysis of the effect of income inequality on crime</td>
+    </tr>
+</table>
+
 </div>
