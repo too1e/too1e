@@ -11,7 +11,7 @@
     <h4 align="center">My Projects</h4>
     <table align="center">
     <tr>
-        <td><a href="https://athens-chatbot.streamlit.app/">the guide dawg</a> - a chatbot made to help students find things to do in Athens, GA</td>
+        <td><a href="https://athens-chatbot-2.streamlit.app/">the guide dawg</a> - a chatbot made to help students find things to do in Athens, GA</td>
     </tr>    
     <tr>
         <td><a href="https://github.com/too1e/soccer">soccer stats</a> - data scraping tool for soccer stats</td>
