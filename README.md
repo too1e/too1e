@@ -22,6 +22,9 @@
      <tr>
         <td><a href="https://github.com/too1e/inflation">inflation in the food industry</a> - an analysis of grocery price trends and the impact of the COVID-19 pandemic</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/too1e/poke">card price tool</a> - R script for scraping live pokémon price data</td>
+    </tr>        
 </table>
 
 </div>
