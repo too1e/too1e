@@ -16,9 +16,6 @@
     <tr>
         <td><a href="https://github.com/too1e/soccer">soccer stats</a> - data scraping tool for soccer stats</td>
     </tr>
-    <tr>
-        <td><a href="https://github.com/too1e/crime">income inequality and crime rates</a> - visualizing and analyzing the impact of income inequality on crime</td>
-    </tr>
      <tr>
         <td><a href="https://github.com/too1e/inflation">inflation in the food industry</a> - an analysis of grocery price trends and the impact of the COVID-19 pandemic</td>
     </tr>
