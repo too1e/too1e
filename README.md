@@ -35,7 +35,7 @@
     <br>
     <table align="center">
     <tr>
-        <td align="center"><a href="https://too1e.github.io/"><img src="portfolio.svg" width="64" alt="Pixel-art briefcase icon"/><br>portfolio</a></td>
+        <td align="center"><a href="https://too1e.github.io/"><img src="portfolio-icon.svg" width="64" alt="Pixel-art briefcase icon"/><br>portfolio</a></td>
     </tr>
 </table>
 
