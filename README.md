@@ -11,10 +11,10 @@
     <h4 align="center">My Projects</h4>
     <table align="center">
     <tr>
-        <td><a href="https://top5trivia.com">top 5 trivia</a> - a daily trivia game where you guess the top 5 answers to each question</td>
+        <td><a href="https://top5trivia.com">top 5 trivia</a> - a daily trivia game of top 5 questions</td>
     </tr>
     <tr>
-        <td><a href="https://too1e.github.io/chesscorner/">chess corner</a> - a personal chess.com stats dashboard with game reviews and training</td>
+        <td><a href="https://too1e.github.io/chesscorner/">chess corner</a> - sam's chess.com stats dashboard</td>
     </tr>
     <tr>
         <td><a href="https://athens-chatbot-2.streamlit.app/">the guide dawg</a> - a chatbot made to help students find things to do in Athens, GA (no longer active)</td>
