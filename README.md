@@ -17,7 +17,7 @@
         <td><a href="https://too1e.github.io/chesscorner/">chess corner</a> - sam's chess.com stats dashboard</td>
     </tr>
     <tr>
-        <td><a href="https://claude.ai/artifact/JDedNwvBUr971b42WqEukU">usb library scanner</a> - a rekordbox USB dashboard with a key + BPM mix finder</td>
+        <td><a href="https://too1e.github.io/usb-library-scanner/">usb library scanner</a> - a rekordbox USB dashboard with a key + BPM mix finder</td>
     </tr>
     <tr>
         <td><a href="https://athens-chatbot-2.streamlit.app/">the guide dawg</a> - a chatbot made to help students find things to do in Athens, GA (no longer active)</td>
