@@ -8,7 +8,7 @@
     </p>
   <p align="center">
     <p> welcome to my github </p>
-    <h4 align="center">My Projects</h4>
+    <h4 align="center">my projects</h4>
     <table align="center">
     <tr>
         <td><a href="https://top5trivia.com">top 5 trivia</a> - a daily trivia game of top 5 questions</td>
