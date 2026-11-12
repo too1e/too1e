@@ -32,5 +32,11 @@
         <td><a href="https://github.com/too1e/poke">card price tool</a> - R script for scraping live pokémon price data</td>
     </tr>        
 </table>
+    <br>
+    <table align="center">
+    <tr>
+        <td align="center"><a href="https://too1e.github.io/"><img src="portfolio.svg" width="48" alt="Pixel-art briefcase icon"/><br>portfolio</a></td>
+    </tr>
+</table>
 
 </div>
